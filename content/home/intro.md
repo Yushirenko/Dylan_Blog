@@ -9,6 +9,6 @@ design:
   background:
     color: "#090a0b"
     text_color_light: false
-    image: brt026005700135.jpg
+    image: ""
     image_darken: 0
 ---
