@@ -9,5 +9,5 @@ design:
   background:
     color: "#090a0b"
     text_color_light: true
-    image: 你只是一个凡人.jpg
+    image: brt026005700135.jpg
 ---
