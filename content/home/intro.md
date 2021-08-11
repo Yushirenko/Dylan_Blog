@@ -8,6 +8,7 @@ subtitle: 進來記得換鞋
 design:
   background:
     color: "#090a0b"
-    text_color_light: true
+    text_color_light: false
     image: brt026005700135.jpg
+    image_darken: 0
 ---
