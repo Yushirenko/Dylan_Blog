@@ -8,7 +8,7 @@ subtitle: 進來記得換鞋
 active: true
 design:
   background:
-    color: "#090a0b"
+    color: "#ea9009"
     text_color_light: false
     image: ""
     image_darken: ""
