@@ -5,6 +5,7 @@ headless: true
 weight: 10
 title: 歡迎光臨
 subtitle: 進來記得換鞋
+active: true
 design:
   background:
     color: "#090a0b"
